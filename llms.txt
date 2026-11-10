@@ -1,0 +1,28 @@
+# Developer Toolkit & Boilerplate Framework
+
+> A centralized documentation hub and production-ready boilerplate framework designed across five core development domains, distributed via GitHub Releases.
+
+## Overview
+This repository serves as a clean documentation and navigation hub. To keep the source repository lightweight, all actual project boilerplates, fast-command automation scripts, and hosting configurations are distributed as compressed `.zip` archives via GitHub Releases.
+
+## Core Domains & Releases
+
+- **GitHub Releases Hub**: [View All Releases](https://github.com/USERNAME/REPO_NAME/releases)
+- **1. Unity Games**: Standardized structure for Unity 3D, asset management, and Git LFS tracking. (`unity-boilerplate.zip`)
+- **2. Web & Full-stack**: Node.js, React, Next.js setups with secure environment templates and deployment configs (Vercel, Render, Docker). (`web-boilerplate.zip`)
+- **3. Automation Bots**: Python/Node automation scripts, secure token handling, and PM2/VPS background execution profiles. (`bot-boilerplate.zip`)
+- **4. Low-Level & C++**: Console homebrew, SDK integration, CMake build pipelines, and strict source/binary isolation. (`lowlevel-boilerplate.zip`)
+- **5. AI & RAG Pipelines**: Vector database integration (Chroma/FAISS), embedding caches, and modular LLM query architectures. (`ai-rag-boilerplate.zip`)
+
+## Standardized Project Architecture
+Every downloaded boilerplate release package follows a strict, predictable layout:
+- `src/`: Source code and application logic.
+- `fast_commends/`: Terminal automation scripts for setup, building, and deployment.
+- `host_configs/`: Domain-specific deployment templates.
+- `.gitignore` & `.env.example`: Strict security and environment isolation rules.
+- `LICENSE`: MIT Open-Source License.
+
+## Resources & Links
+- [Main Repository README](https://github.com/USERNAME/REPO_NAME#readme)
+- [Contributing Guidelines](https://github.com/USERNAME/REPO_NAME/blob/main/CONTRIBUTING.md)
+- [MIT License](https://github.com/USERNAME/REPO_NAME/blob/main/LICENSE)
